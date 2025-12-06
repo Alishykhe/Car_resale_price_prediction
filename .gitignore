@@ -1,0 +1,7 @@
+car_sales_data.csv
+car_sales_data_preprocessed.csv
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+models/*.pkl
